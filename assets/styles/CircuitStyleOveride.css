@@ -1,2 +1,9 @@
 .w3-CyclesDupont,.w3-hover-red:hover{color:#fff!important;background-color:#b80605!important}
 .w3-Inscription,.w3-hover-red:hover{color:#fff!important;background-color:yellow!important}
+.w3-Commanditaires{color:#fff!important;background-color:#000000!important}
+
+.center-Commanditaires {
+  display: flex;
+  align-items: center;
+  justify-content: center
+  }
